@@ -1,0 +1,9 @@
+# ignore all logs
+Course
+Project
+*.log
+*.bbl
+*.blg
+*.out
+*.aux
+*.gz
